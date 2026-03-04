@@ -1,1 +1,8 @@
 /* css styles */
+
+.profile-right{
+    float: right;
+    width: 180px;
+    margin: 0 0 1rem 1rem;
+    border-radius: 8px;
+}

@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-Articles
+## Articles
 
 - Iseki, T., Shigemura, S., Ikeda, S., & Ishima, H. 2024. Does Cooperation with Multiple Actors Diffuse the Government’s Responsibility in the Implementation of COVID-19 Measures? Social Science Japan Journal, 27(1), 77-90.
 
@@ -14,7 +14,7 @@ Articles
 
 - Ishima, H. 2020. How Electoral Reform Alters Legislative Speech: Evidence from the Parliament of Victoria, Australia 1992–2017. Electoral Studies, 67, 102192.
 
-Articles in Japanese Journals
+## Articles in Japanese Journals
 
 - Ashitani, K., & Ishima, H. 2025. Parliamentary Debates on the Constitution: How Politicians Have addressed It. Japanese Journal of Electoral Studies, 41 (1), 37-49.
 
