@@ -1,1 +1,1 @@
-Sitemap: https://h-ism.github.io/mysite/sitemap.xml
+Sitemap: https://h-ism.github.io/sitemap.xml
