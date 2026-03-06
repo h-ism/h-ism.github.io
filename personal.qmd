@@ -6,4 +6,4 @@ title: "Personal"
 I'm originally from Nara, Japan. 
 I'm enthusiastic about watching sports, especially baseball and basketball. 
 
-![Hobby](pictures/hobby.jpeg)
+![Kyocera Dome Osaka: Orix Buffaloes](pictures/hobby.jpeg)

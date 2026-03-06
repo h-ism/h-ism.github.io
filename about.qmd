@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "About"
 ---
 I received my Ph.D. in Political Science from Kyoto University in 2019. From 2021, I am an associate professor of Political Science at Kyoto University.
 
