@@ -9,7 +9,7 @@ I'm enthusiastic about watching sports, especially baseball and basketball.
 ::: {.column-page}
 ::: {.columns}
 ::: {.column width="50%"}
-![Kyocera Dome Osaka: Orix Buffaloes](pictures/hobby.jpeg){.gallery-img}
+![Orix Buffaloes](pictures/hobby.jpeg){.gallery-img}
 :::
 
 ::: {.column width="50%"}
