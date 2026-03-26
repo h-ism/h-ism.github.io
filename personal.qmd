@@ -16,5 +16,5 @@ I'm enthusiastic about watching sports, especially baseball and basketball.
 ![My Home Town](pictures/hometown.jpeg){.gallery-img}
 :::
 :::
-
+:::
 ![Detroit Pistons](pictures/pistons.jpeg){width="50%" .gallery-img}
