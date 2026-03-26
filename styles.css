@@ -6,3 +6,11 @@
     margin: 0 0 1rem 1rem;
     border-radius: 8px;
 }
+
+.gallery-img {
+    width: 100%;
+    border-radius: 10px;
+    display: block;
+    object-fit: cover;
+    aspact-ratio: 4 / 3;
+}}
