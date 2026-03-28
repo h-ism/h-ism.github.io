@@ -9,11 +9,11 @@ I'm enthusiastic about watching sports, especially baseball and basketball.
 ::: {.column-page}
 ::: {.columns}
 ::: {.column width="50%"}
-![Orix Buffaloes](pictures/hobby.jpeg){width="50%".gallery-img}
+![Orix Buffaloes](pictures/hobby.jpeg){.gallery-img}
 :::
 
 ::: {.column width="50%"}
-![My Home Town](pictures/hometown.jpeg){width="50%" .gallery-img}
+![My Home Town](pictures/hometown.jpeg){.gallery-img}
 :::
 :::
 :::
