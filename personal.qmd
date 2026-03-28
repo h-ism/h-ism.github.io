@@ -13,7 +13,7 @@ I'm enthusiastic about watching sports, especially baseball and basketball.
 :::
 
 ::: {.column width="50%"}
-![My Home Town](pictures/hometown.jpeg){width = "50%" .gallery-img}
+![My Home Town](pictures/hometown.jpeg){width="50%" .gallery-img}
 :::
 :::
 :::
