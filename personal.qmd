@@ -21,5 +21,9 @@ I'm enthusiastic about watching sports, especially baseball and basketball. I vi
 ![Detroit Pistons](pictures/pistons.jpeg){.gallery-img}
 :::
 
+::: {.gallery-item}
+![Comerica Park](pictures/detroit_tigers.jpeg){.gallery-img}
+:::
+
 :::
 :::
