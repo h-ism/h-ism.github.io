@@ -3,8 +3,7 @@ title: "Personal"
 ---
 
  
-I'm originally from Nara, Japan. 
-I'm enthusiastic about watching sports, especially baseball and basketball. I visited several MLB ballparks in the US.
+I’m originally from Nara, Japan. I enjoy watching sports, especially baseball and basketball, and have visited several MLB ballparks in the U.S.
 
 ::: {.column-page}
 ::: {.gallery-grid}
@@ -14,7 +13,7 @@ I'm enthusiastic about watching sports, especially baseball and basketball. I vi
 :::
 
 ::: {.gallery-item}
-![My Home Town](pictures/hometown.jpeg){.gallery-img}
+![My Hometown: Yamato Koriyama, Japan](pictures/hometown.jpeg){.gallery-img}
 :::
 
 ::: {.gallery-item}
