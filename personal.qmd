@@ -13,7 +13,7 @@ I’m originally from Nara, Japan. I enjoy watching sports, especially baseball 
 :::
 
 ::: {.gallery-item}
-![My Hometown: Yamato Koriyama, Japan](pictures/hometown.jpeg){.gallery-img}
+![My Hometown: Yamato-Koriyama, Japan](pictures/hometown.jpeg){.gallery-img}
 :::
 
 ::: {.gallery-item}
