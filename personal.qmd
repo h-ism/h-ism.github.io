@@ -7,14 +7,19 @@ I'm originally from Nara, Japan.
 I'm enthusiastic about watching sports, especially baseball and basketball. 
 
 ::: {.column-page}
-::: {.columns}
-::: {.column width="50%"}
-![Orix Buffaloes](pictures/hobby.jpeg){width="70%" .gallery-img}
+::: {.gallery-grid}
+
+::: {.gallery-item}
+![Orix Buffaloes](pictures/hobby.jpeg){width="100%" .gallery-img}
 :::
 
-::: {.column width="50%"}
-![My Home Town](pictures/hometown.jpeg){width="70%" .gallery-img}
+::: {.gallery-item}
+![My Home Town](pictures/hometown.jpeg){width="100%" .gallery-img}
+:::
+
+::: {.gallery-item}
+![Detroit Pistons](pictures/pistons.jpeg){width="100%" .gallery-img}
+:::
+
 :::
 :::
-:::
-![Detroit Pistons](pictures/pistons.jpeg){width="50%" .gallery-img}
