@@ -10,15 +10,15 @@ I'm enthusiastic about watching sports, especially baseball and basketball. I vi
 ::: {.gallery-grid}
 
 ::: {.gallery-item}
-![Orix Buffaloes](pictures/hobby.jpeg){width="80%" .gallery-img}
+![Orix Buffaloes](pictures/hobby.jpeg){.gallery-img}
 :::
 
 ::: {.gallery-item}
-![My Home Town](pictures/hometown.jpeg){width="80%" .gallery-img}
+![My Home Town](pictures/hometown.jpeg){.gallery-img}
 :::
 
 ::: {.gallery-item}
-![Detroit Pistons](pictures/pistons.jpeg){width="80%" .gallery-img}
+![Detroit Pistons](pictures/pistons.jpeg){.gallery-img}
 :::
 
 :::
