@@ -19,23 +19,16 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   column-gap: 4rem;
-  row-gap: 1.5rem;
+  row-gap: 2rem;
+  max-width: 860px;
+  margin: 0 auto;
 }
 
 .gallery-item {
-  width: 70%;
+  width: 100%;
 }
 
 .gallery-img {
+  width: 100%;
   border-radius: 6px;
-}
-
-@media (max-width: 768px) {
-  .gallery-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .gallery-item {
-    width: 100%;
-  }
 }
