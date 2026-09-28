@@ -7,6 +7,6 @@ My research focuses on political parties, legislative behavior, and Japanese pol
 I am also interested in applying machine learning methods to political science, including text-as-data, audio-as-data, and visual analysis.
 My work has been published in Electoral Studies, Legislative Studies Quarterly, Journal of Elections, Public Opinion and Parties, Representation, and Social Science Japan Journal.
 
-Please find my detailed [CV](https://www.dropbox.com/scl/fi/31j9637b3ktfj0z457vt0/cv_June26.pdf?rlkey=99j64p5xc5k10hb1hmb335ap6&dl=0).
+Please find my detailed [CV](cv_sept26.pdf).
 
 ![Kyoto University](pictures/home_institution.jpg)
