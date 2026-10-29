@@ -51,3 +51,5 @@ title: "Research"
 - Issue Competition in Japan
 
 - Network Analysis of the Japanese Political Parties
+
+- Parliamentary Party Groups and Legislative Politics
